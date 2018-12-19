@@ -12,10 +12,10 @@ public class MainClassTest {
 		assertEquals(2, mainClass.additiony(1, 1));
 	}
 	
-	@Test
-	public void testFail() {
-		MainClass mainClass = new MainClass();
-		assertEquals(3, mainClass.additiony(1, 1));
-	}
+//	@Test
+//	public void testFail() {
+//		MainClass mainClass = new MainClass();
+//		assertEquals(3, mainClass.additiony(1, 1));
+//	}
 	
 }
